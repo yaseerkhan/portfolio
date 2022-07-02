@@ -1,3 +1,3 @@
-Portfolio created using html ,js & css.
+Portfolio created using html, js, css and bootstrap.
 I dont own this.
-I downloaded this template and made changes as per my needs.
+I downloaded this template and made changes.
